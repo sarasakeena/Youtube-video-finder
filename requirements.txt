@@ -3,3 +3,4 @@ vosk
 pyaudio
 google-api-python-client
 isodate
+numpy
